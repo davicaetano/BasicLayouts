@@ -199,7 +199,7 @@ private fun SootheNavigationRail(modifier: Modifier = Modifier) {
 
 // Step: Landscape Mode
 @Composable
-fun MySootheAppLandscape(){
+fun MySootheAppLandscape() {
     // Implement composable here
 }
 
